@@ -7,6 +7,7 @@
 // Backend Setup
 
 step 1:- source .venv/bin/activate
+
 step 2:- pip install fastapi uvicorn
 
 
